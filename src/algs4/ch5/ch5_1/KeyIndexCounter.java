@@ -4,8 +4,6 @@ import algs4.stdlib.StdOut;
 
 /**
  * 键索引计数法，适用于小整数键的简单排序方法
- *
- * @author xiaoxy
  */
 public class KeyIndexCounter {
 

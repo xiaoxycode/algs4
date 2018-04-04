@@ -5,8 +5,6 @@ import algs4.stdlib.StdRandom;
 
 /**
  * 低位优先的字符串排序
- *
- * @author xiaoxy
  */
 public class LSD {
 

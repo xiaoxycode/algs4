@@ -1,7 +1,7 @@
 package algs4.ch5.ch5_1;
 
 /**
- * @author xiaoxy
+ *
  */
 public class Quick3String {
 

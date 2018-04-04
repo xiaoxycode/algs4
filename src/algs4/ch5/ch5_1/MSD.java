@@ -4,8 +4,6 @@ import algs4.stdlib.StdOut;
 
 /**
  * 高位优先的字符串排序
- *
- * @author xiaoxy
  */
 public class MSD {
     private static final int BITS_PER_BYTE = 8;
